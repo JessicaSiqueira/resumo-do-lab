@@ -21,3 +21,12 @@ junção de cloud públicas e privada.
 Requer conhecimento técnico para configurar e gerenciar (updates, instalações etc).
 
 
+
+Beneficios da nuvem:
+
+SLA: é o prazo que se tem para que o cliente fique sem o serviço oferecido, excedendo o tempo contratado a MS ressarce o valor em forma de crédito.
+
+Quanto mais "9", menos tempo de inatividade terá.
+Ex: 99.999% - 6 segundos de inatividade. Na criação da máquina virtual, essa opção pode ser escolhida.
+
+
